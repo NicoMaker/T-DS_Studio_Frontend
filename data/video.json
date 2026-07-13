@@ -1,0 +1,20 @@
+{
+  "titolo": "I nostri progetti in movimento",
+  "sottotitolo": "Showreel e dietro le quinte del nostro lavoro",
+  "_istruzioni": "Ogni video può essere: { tipo: 'youtube', id: 'VIDEO_ID' } oppure { tipo: 'mp4', src: 'video/nomefile.mp4', poster: 'img/poster.jpg' }. Metti i file mp4 nella cartella frontend/video/.",
+  "video": [
+    {
+      "tipo": "youtube",
+      "id": "dQw4w9WgXcQ",
+      "titolo": "Showreel 2026",
+      "descrizione": "Una selezione dei progetti web e grafici realizzati quest'anno."
+    },
+    {
+      "tipo": "mp4",
+      "src": "video/dietro-le-quinte.mp4",
+      "poster": "https://picsum.photos/seed/poster-agency/900/500",
+      "titolo": "Dietro le quinte",
+      "descrizione": "Come nasce un progetto: dal brief al lancio."
+    }
+  ]
+}

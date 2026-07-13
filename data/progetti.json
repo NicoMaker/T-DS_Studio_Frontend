@@ -1,0 +1,105 @@
+{
+  "titolo": "I Nostri Progetti",
+  "sottotitolo": "Ogni progetto racconta una storia digitale",
+  "progetti": [
+    {
+      "id": 1,
+      "titolo": "Macelleria da Ketti",
+      "categoria": "Sito Web",
+      "descrizione": "Sito vetrina per una macelleria artigianale: presentazione dei prodotti, contatti e presenza online curata.",
+      "dettagli": [
+        "Design su misura per l'attività",
+        "Ottimizzato per mobile e ricerca locale",
+        "Sezioni prodotti e contatti sempre aggiornate"
+      ],
+      "tecnologie": ["HTML", "CSS", "JavaScript"],
+      "immagine": "img/Web_Site/Macelleria_da_Ketti.png",
+      "immagine_placeholder": "https://picsum.photos/seed/ketti/600/400",
+      "anno": 2025,
+      "colore": "#ef3e36",
+      "link": "https://macelleriadaketti.it/"
+    },
+    {
+      "id": 2,
+      "titolo": "IdeaLegno",
+      "categoria": "Sito Web",
+      "descrizione": "Sito istituzionale per un'azienda di lavorazione del legno in Friuli-Venezia Giulia: portfolio lavori",
+      "dettagli": [
+        "Galleria dei lavori realizzati",
+        "Immagine coordinata con il brand"
+      ],
+      "tecnologie": ["HTML", "CSS", "JavaScript"],
+      "immagine": "img/Web_Site/IDEALEGNO.jpg",
+      "immagine_placeholder": "https://picsum.photos/seed/idealegno/600/400",
+      "anno": 2025,
+      "colore": "#d42a22",
+      "link": "https://idealegnofvg.com/"
+    },
+    {
+      "id": 3,
+      "titolo": "Da Prat – Serramenti su Misura",
+      "categoria": "Sito Web",
+      "descrizione": "Sito vetrina per una falegnameria specializzata in serramenti su misura. Presentazione di materiali, prodotti e soluzioni per porte, finestre e sistemi oscuranti.",
+      "dettagli": [
+        "Design su misura per l'attività di falegnameria",
+        "Ottimizzato per la ricerca locale e dispositivi mobili",
+        "Catalogo completo di serramenti in PVC, alluminio e legno"
+      ],
+      "tecnologie": ["HTML", "CSS", "JavaScript"],
+      "immagine": "img/Web_Site/Da_Prat_Falegnameria.png",
+      "immagine_placeholder": "https://picsum.photos/seed/prat/600/400",
+      "anno": 2026,
+      "colore": "#8B5A2B"
+    },
+    {
+      "id": 4,
+      "titolo": "Bottadiculo",
+      "categoria": "Brand Identity",
+      "descrizione": "Identità visiva completa per il brand Bottadiculo: logo, palette colori, tono di voce e applicazioni coordinate.",
+      "dettagli": [
+        "Progettazione del logo e delle sue varianti",
+        "Palette colori e sistema tipografico",
+        "Applicazioni del brand su materiali reali"
+      ],
+      "tecnologie": ["Illustrator", "Photoshop"],
+      "immagine": "img/Brand_Identity/Bottadiculo.png",
+      "immagine_placeholder": "https://picsum.photos/seed/bottadiculo/600/400",
+      "anno": 2025,
+      "colore": "#ef3e36",
+      "link": "https://www.bottadiculo.it"
+    },
+    {
+      "id": 5,
+      "titolo": "SPAZIO — Illuminamente Magazine",
+      "categoria": "Tipografia",
+      "descrizione": "Progetto editoriale e tipografico per il magazine Illuminamente: griglie, gerarchie di testo e impaginazione.",
+      "dettagli": [
+        "Studio della griglia editoriale",
+        "Gerarchie tipografiche e leggibilità",
+        "Impaginazione completa del magazine"
+      ],
+      "tecnologie": ["InDesign", "Illustrator"],
+      "immagine": "img/Brand_Identity/Spazio_Magazine.png",
+      "immagine_placeholder": "https://picsum.photos/seed/spazio/600/400",
+      "anno": 2025,
+      "colore": "#d42a22"
+    },
+    {
+      "id": 6,
+      "titolo": "NOVUS — Calendario 2024",
+      "categoria": "Grafica e Illustrazione",
+      "descrizione": "Calendario illustrato NOVUS 2024: dodici tavole originali tra grafica e illustrazione, dal concept alla stampa.",
+      "dettagli": [
+        "Dodici illustrazioni originali",
+        "Concept grafico coordinato",
+        "File pronti per la stampa"
+      ],
+      "tecnologie": ["Illustrator", "Photoshop"],
+      "immagine": "img/Brand_Identity/Calendario_2024.png",
+      "immagine_placeholder": "https://picsum.photos/seed/novus/600/400",
+      "anno": 2024,
+      "colore": "#ef3e36"
+    }
+  ],
+  "_istruzioni": "\"link\" = URL completo del progetto (sito online o galleria Behance). \"codice\" = repository GitHub (facoltativo). \"dettagli\" = elenco puntato mostrato aprendo la card col \"+\". Le immagini vanno nella cartella Web_Site/: se mancano viene usato il placeholder."
+}

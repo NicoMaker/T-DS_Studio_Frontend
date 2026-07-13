@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <link rel="icon" type="image/png" href="img/Logo.png" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="T-DS Studio di comunicazione per il tuo business. Siti web, brand identity, app e marketing digitale."
+    />
+    <meta name="robots" content="index, follow" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>T‑DS Studio– Agenzia di Comunicazione</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style.css?v=5" />
+  </head>
+  <body>
+    <!-- ========== NAVBAR ========== -->
+    <nav id="navbar" role="navigation" aria-label="Navigazione principale">
+      <div class="container nav-inner">
+        <a href="#home" class="nav-logo" aria-label="T‑DS Agency - Home">
+          <img src="img/Logo.png" alt="T‑DS Agency" class="nav-logo-img" />
+        </a>
+
+        <ul class="nav-links">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#servizi">Servizi</a></li>
+          <li><a href="#progetti">Progetti</a></li>
+          <li><a href="#video">Video</a></li>
+          <li><a href="#contatti">Contatti</a></li>
+        </ul>
+
+        <a href="#contatti-form" class="btn btn-primary nav-cta">Scrivici</a>
+
+        <button class="hamburger" aria-label="Apri menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </nav>
+
+    <!-- Mobile Nav -->
+    <div
+      class="nav-mobile"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Menu mobile"
+    >
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#servizi">Servizi</a></li>
+        <li><a href="#progetti">Progetti</a></li>
+        <li><a href="#video">Video</a></li>
+        <li><a href="#team">Team</a></li>
+        <li><a href="#contatti-form" class="mobile-cta">Scrivici ora</a></li>
+      </ul>
+    </div>
+
+    <!-- ========== HERO ========== -->
+    <section id="home" class="hero-ready">
+      <div class="hero-media" id="hero-media" aria-hidden="true"></div>
+      <div class="hero-veil" aria-hidden="true"></div>
+      <div class="container hero-content">
+        <div class="hero-brand" aria-hidden="true">
+          <img src="img/logo.png" alt="" />
+        </div>
+        <div class="hero-text">
+          <h1 class="hero-title">
+            Il digitale che fa la <span class="accent">differenza</span>.
+          </h1>
+          <p class="hero-sub">
+            Siamo un'agenzia specializzata in siti web, brand identity e
+            soluzioni informatiche. Costruiamo presenze digitali che convertono,
+            comunicano e crescono.
+          </p>
+          <div class="hero-actions">
+            <a href="#progetti" class="btn btn-primary">I nostri lavori</a>
+            <a href="#contatti-form" class="btn btn-outline">Scrivici ora</a>
+          </div>
+        </div>
+      </div>
+      <a href="#servizi" class="hero-scroll" aria-label="Scorri in basso">
+        <span class="hero-scroll-line"></span>
+      </a>
+    </section>
+
+    <!-- ========== MARQUEE ========== -->
+    <div class="marquee" aria-hidden="true">
+      <div class="marquee-track" id="marquee-track"></div>
+    </div>
+
+    <!-- ========== SERVIZI ========== -->
+    <section id="servizi" class="section">
+      <div class="container">
+        <div class="section-header reveal">
+          <h2 id="servizi-titolo">Cosa Facciamo</h2>
+          <p class="section-sub" id="servizi-sottotitolo"></p>
+        </div>
+        <div class="servizi-grid" id="servizi-grid"></div>
+      </div>
+    </section>
+
+    <!-- ========== PROGETTI ========== -->
+    <section id="progetti" class="section section-alt">
+      <div class="container">
+        <div class="section-header reveal">
+          <h2 id="progetti-titolo">I Nostri Lavori</h2>
+          <p class="section-sub" id="progetti-sottotitolo"></p>
+        </div>
+
+        <div class="filter-bar reveal" id="progetti-filter-bar">
+          <div class="search-wrapper">
+            <span class="search-icon" aria-hidden="true">
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 24 24"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <circle
+                  cx="11"
+                  cy="11"
+                  r="7"
+                  stroke="currentColor"
+                  stroke-width="2"
+                />
+                <path
+                  d="M21 21l-4.3-4.3"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                />
+              </svg>
+            </span>
+            <input
+              type="text"
+              id="progetti-search"
+              placeholder="Cerca un progetto…"
+              aria-label="Cerca nei progetti"
+            />
+          </div>
+          <div
+            class="category-filter"
+            id="progetti-categorie"
+            role="group"
+            aria-label="Filtra per categoria"
+          ></div>
+        </div>
+
+        <div class="progetti-grid" id="progetti-grid"></div>
+        <p class="filter-empty" id="progetti-empty" style="display: none">
+          Nessun progetto trovato per questa ricerca.
+        </p>
+      </div>
+    </section>
+
+    <!-- ========== VIDEO ========== -->
+    <section id="video" class="section">
+      <div class="container">
+        <div class="section-header reveal">
+          <h2 id="video-titolo">I nostri progetti in movimento</h2>
+          <p class="section-sub" id="video-sottotitolo"></p>
+        </div>
+        <div class="video-grid" id="video-grid"></div>
+      </div>
+    </section>
+
+    <!-- ========== CONTATTI ========== -->
+    <section id="contatti" class="section section-alt">
+      <div class="container">
+        <div class="section-header reveal">
+          <h2>I nostri contatti</h2>
+          <p class="section-sub" id="team-sottotitolo"></p>
+        </div>
+        <div class="team-grid" id="team-grid"></div>
+      </div>
+    </section>
+
+    <!-- ========== FOOTER ========== -->
+    <footer class="site-footer">
+      <div class="container">
+        <div class="footer-inner">
+          <a
+            href="#home"
+            class="nav-logo footer-logo-link"
+            aria-label="T‑DS Agency - Home"
+          >
+            <img src="img/Logo.png" alt="T‑DS Agency" class="nav-logo-img" />
+          </a>
+          <p class="footer-copy">
+            © <span id="current-year"></span> T‑DS Studio – Agenzia di Comunicazione.
+          </p>
+          <div class="footer-social" id="footer-social"></div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- ── Script frontend ── -->
+    <script src="js/data.js?v=5"></script>
+    <script src="js/nav.js?v=5"></script>
+    <script src="js/animations.js?v=5"></script>
+    <script src="js/render.js?v=5"></script>
+    <script src="js/progetti-filter.js?v=5"></script>
+    <script src="js/phone-input.js?v=5"></script>
+    <script src="js/form.js?v=5"></script>
+    <script src="js/main.js?v=5"></script>
+  </body>
+</html>

@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="T‑DS Studio – Scopri nel dettaglio le nostre soluzioni: siti web, brand identity, app, marketing e molto altro."
+    />
+    <meta name="robots" content="index, follow" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>Servizio – T‑DS Studio</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style.css?v=7" />
+    <link rel="icon" type="image/png" href="img/Logo.png" />
+  </head>
+  <body>
+    <!-- ========== NAVBAR ========== -->
+    <nav id="navbar" role="navigation" aria-label="Navigazione principale">
+      <div class="container nav-inner">
+        <a
+          href="index.html#home"
+          class="nav-logo"
+          aria-label="T‑DS Studio - Home"
+        >
+          <img src="img/Logo.png" alt="T‑DS Studio" class="nav-logo-img" />
+        </a>
+
+        <ul class="nav-links">
+          <li><a href="index.html#home">Home</a></li>
+          <li><a href="index.html#servizi" class="active">Servizi</a></li>
+          <li><a href="index.html#progetti">Progetti</a></li>
+          <li><a href="index.html#video">Video</a></li>
+          <li><a href="index.html#contatti">Contatti</a></li>
+        </ul>
+
+        <a href="#contatti-form-servizio" class="btn btn-primary nav-cta"
+          >Scrivici</a
+        >
+
+        <button class="hamburger" aria-label="Apri menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </nav>
+
+    <!-- Mobile Nav -->
+    <div
+      class="nav-mobile"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Menu mobile"
+    >
+      <ul>
+        <li><a href="index.html#home">Home</a></li>
+        <li><a href="index.html#servizi">Servizi</a></li>
+        <li><a href="index.html#progetti">Progetti</a></li>
+        <li><a href="index.html#video">Video</a></li>
+        <li><a href="index.html#team">Team</a></li>
+        <li>
+          <a href="#contatti-form-servizio" class="mobile-cta">Scrivici ora</a>
+        </li>
+      </ul>
+    </div>
+
+    <!-- ========== SERVIZIO DETAIL ========== -->
+    <section id="servizio-detail" class="section">
+      <div class="container">
+        <div class="servizio-detail-inner">
+          <a href="index.html#servizi" class="btn-back">Tutti i servizi</a>
+
+          <!-- Stato di caricamento -->
+          <div
+            id="sd-loading"
+            style="padding: 60px 0; text-align: center; color: var(--muted)"
+          >
+            Caricamento…
+          </div>
+
+          <!-- Stato "servizio non trovato" -->
+          <div
+            id="sd-notfound"
+            style="display: none; padding: 60px 0; text-align: center"
+          >
+            <h2 style="margin-bottom: 16px">Servizio non trovato</h2>
+            <p style="margin-bottom: 32px; color: var(--muted)">
+              Il servizio che cerchi non esiste o è stato rimosso.
+            </p>
+            <a href="index.html#servizi" class="btn btn-primary"
+              >Torna ai servizi</a
+            >
+          </div>
+
+          <!-- Contenuto servizio (popolato via JS) -->
+          <div id="sd-content" style="display: none">
+            <div class="servizio-detail-header reveal">
+              <div class="servizio-detail-icon" id="sd-icon"></div>
+              <div>
+                <h2 class="servizio-detail-title" id="sd-title"></h2>
+                <p class="servizio-detail-sub" id="sd-desc"></p>
+              </div>
+            </div>
+            <div class="servizio-detail-body">
+              <div class="servizio-detail-lista reveal">
+                <h3>Cosa include</h3>
+                <ul id="sd-lista"></ul>
+              </div>
+              <div class="servizio-detail-faq reveal">
+                <h3>Domande frequenti</h3>
+                <div id="sd-faq"></div>
+              </div>
+            </div>
+
+            <div class="servizio-detail-cta reveal">
+              <p>Hai bisogno di questo servizio?</p>
+              <a href="#contatti-form-servizio" class="btn btn-primary"
+                >Contattaci ora</a
+              >
+            </div>
+
+            <!-- Progetti correlati -->
+            <div
+              class="servizio-detail-correlati reveal"
+              id="sd-correlati-wrap"
+            >
+              <h3>Progetti correlati</h3>
+              <div class="filter-bar" id="sd-correlati-filter-bar">
+                <div class="search-wrapper">
+                  <span class="search-icon" aria-hidden="true">
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <circle
+                        cx="11"
+                        cy="11"
+                        r="7"
+                        stroke="currentColor"
+                        stroke-width="2"
+                      />
+                      <path
+                        d="M21 21l-4.3-4.3"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                      />
+                    </svg>
+                  </span>
+                  <input
+                    type="text"
+                    id="sd-search-correlati"
+                    placeholder="Cerca progetti…"
+                    aria-label="Cerca nei progetti correlati"
+                  />
+                </div>
+                <div
+                  class="category-filter"
+                  id="sd-correlati-categorie"
+                  role="group"
+                  aria-label="Filtra per categoria"
+                ></div>
+              </div>
+              <div class="progetti-grid" id="sd-correlati-grid"></div>
+              <p
+                class="filter-empty"
+                id="sd-correlati-empty"
+                style="display: none"
+              >
+                Nessun progetto trovato per questa ricerca.
+              </p>
+            </div>
+
+            <!-- Servizi correlati (TUTTI tranne il corrente) -->
+            <div class="servizio-detail-altri reveal">
+              <h3>Servizi correlati</h3>
+              <p class="servizio-correlati-hint">
+                Scopri tutti gli altri servizi che offriamo.
+              </p>
+              <div class="servizi-grid" id="sd-altri-servizi-grid"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== FOOTER ========== -->
+    <footer class="site-footer">
+      <div class="container">
+        <div class="footer-inner">
+          <a
+            href="index.html#home"
+            class="nav-logo footer-logo-link"
+            aria-label="T‑DS Agency - Home"
+          >
+            <img src="img/Logo.png" alt="T‑DS Agency" class="nav-logo-img" />
+          </a>
+          <p class="footer-copy">
+            © <span id="current-year"></span> T‑DS Studio – Agenzia di Comunicazione.
+          </p>
+          <div class="footer-social" id="footer-social"></div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- ── Script frontend ── -->
+    <script src="js/data.js?v=7"></script>
+    <script src="js/nav.js?v=7"></script>
+    <script src="js/animations.js?v=7"></script>
+    <script src="js/render.js?v=7"></script>
+    <script src="js/progetti-filter.js?v=7"></script>
+    <script src="js/phone-input.js?v=7"></script>
+    <script src="js/form.js?v=7"></script>
+    <script src="js/servizio-page.js?v=7"></script>
+  </body>
+</html>

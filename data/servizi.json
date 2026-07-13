@@ -1,0 +1,240 @@
+{
+  "titolo": "Cosa Facciamo",
+  "sottotitolo": "Soluzioni digitali complete per aziende e professionisti",
+  "servizi": [
+    {
+      "id": 1,
+      "slug": "siti-web",
+      "titolo": "Siti Web",
+      "icona": "img/icons/siti-web.png",
+      "descrizione": "Realizziamo siti web professionali, veloci e ottimizzati per i motori di ricerca",
+      "dettagli": [
+        "Siti vetrina e istituzionali",
+        "E-commerce e negozi online",
+        "Landing page ad alta conversione",
+        "Ottimizzazione SEO on-page"
+      ],
+      "faq": [
+        {
+          "domanda": "Quanto tempo ci vuole per realizzare un sito?",
+          "risposta": "I tempi variano in base alla complessità: un sito vetrina richiede 2–3 settimane, un e-commerce 4–8 settimane. Ti forniamo sempre una roadmap dettagliata prima di iniziare."
+        },
+        {
+          "domanda": "Il sito sarà ottimizzato per mobile?",
+          "risposta": "Sì, tutti i nostri siti sono responsive e testati su smartphone, tablet e desktop. La user experience mobile è una priorità assoluta."
+        },
+        {
+          "domanda": "Posso aggiornare il sito autonomamente?",
+          "risposta": "Assolutamente sì. Integriamo un CMS intuitivo (WordPress o soluzione custom) e ti forniamo una guida personalizzata per gestire i contenuti in autonomia."
+        },
+        {
+          "domanda": "Il sito include l'hosting?",
+          "risposta": "Possiamo gestire hosting e dominio per te, oppure lavorare con la tua infrastruttura esistente. Ti consigliamo la soluzione più adatta al tuo progetto."
+        }
+      ],
+      "colore": "#ef3e36",
+      "categorie_correlate": [
+        "Sito Web"
+      ],
+      "correlati": [
+        "marketing-digitale",
+        "grafica-stampa",
+        "consulenza-it"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "brand-identity",
+      "titolo": "Brand Identity",
+      "icona": "img/icons/brand.png",
+      "descrizione": "Costruiamo identità visive memorabili. Logo, palette colori, tipografia e materiali grafici coordinati.",
+      "dettagli": [
+        "Logo design e restyling",
+        "Manuale d'identità visiva",
+        "Biglietti da visita e carta intestata",
+        "Template per social e presentazioni"
+      ],
+      "faq": [
+        {
+          "domanda": "Quante proposte di logo ricevo?",
+          "risposta": "Nella fase di concept presentiamo 3 direzioni creative distinte. Sulla proposta scelta lavoriamo con revisioni illimitate fino all'approvazione finale."
+        },
+        {
+          "domanda": "In quali formati ricevo i file?",
+          "risposta": "Consegniamo i file in tutti i formati necessari: AI, EPS, SVG (vettoriali), PNG e PDF (per la stampa), adatti a ogni utilizzo digitale e fisico."
+        },
+        {
+          "domanda": "Posso fare solo il logo senza il manuale?",
+          "risposta": "Sì, è possibile. Tuttavia consigliamo almeno le linee guida base (palette, font, utilizzi corretti) per garantire coerenza nel tempo."
+        },
+        {
+          "domanda": "Lavorate anche con aziende già avviate che vogliono un restyling?",
+          "risposta": "Sì, affianchiamo aziende sia nella costruzione di un brand da zero che nel rinnovamento di identità esistenti, mantenendo la riconoscibilità acquisita."
+        }
+      ],
+      "colore": "#0a0a0a",
+      "categorie_correlate": [
+        "Brand Identity"
+      ],
+      "correlati": [
+        "grafica-stampa",
+        "siti-web",
+        "marketing-digitale"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "app-software",
+      "titolo": "App & Software",
+      "icona": "img/icons/app.png",
+      "descrizione": "Sviluppiamo applicazioni web custom per automatizzare processi e migliorare l'esperienza utente.",
+      "dettagli": [
+        "Web app e portali gestionali",
+        "Integrazione API e sistemi terzi",
+        "Dashboard e pannelli admin"
+      ],
+      "faq": [
+        {
+          "domanda": "Sviluppate app native o cross-platform?",
+          "risposta": "In base al progetto scegliamo la tecnologia più adatta: React Native per il cross-platform (iOS + Android con un'unica codebase) o sviluppo nativo per performance massime."
+        },
+        {
+          "domanda": "Cosa succede dopo la pubblicazione dell'app?",
+          "risposta": "Offriamo piani di manutenzione mensili che includono aggiornamenti, monitoraggio, bugfix e supporto tecnico continuativo."
+        },
+        {
+          "domanda": "Potete integrare l'app con il mio gestionale esistente?",
+          "risposta": "Sì, realizziamo integrazioni con ERP, CRM, sistemi di pagamento, piattaforme e-commerce e qualsiasi sistema che esponga un'API."
+        },
+        {
+          "domanda": "Quanto costa sviluppare un'app?",
+          "risposta": "Il costo dipende dalla complessità delle funzionalità. Dopo un briefing dettagliato forniamo un preventivo trasparente e senza sorprese."
+        }
+      ],
+      "colore": "#ef3e36",
+      "categorie_correlate": [],
+      "correlati": [
+        "siti-web",
+        "consulenza-it",
+        "marketing-digitale"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "marketing-digitale",
+      "titolo": "Marketing Digitale",
+      "icona": "img/icons/marketing.png",
+      "descrizione": "Strategie di marketing online misurabili. Social media, campagne a pagamento, email marketing e analytics.",
+      "dettagli": [
+        "Gestione social media",
+        "Google Ads e Meta Ads",
+        "Email marketing e automazioni",
+        "Report mensili e analytics"
+      ],
+      "faq": [
+        {
+          "domanda": "Come misurate i risultati delle campagne?",
+          "risposta": "Definiamo insieme KPI chiari prima di iniziare (lead, vendite, traffico, ROAS) e forniamo report mensili dettagliati con dati reali e analisi delle performance."
+        },
+        {
+          "domanda": "Qual è il budget minimo consigliato per le campagne?",
+          "risposta": "Lavoriamo con budget flessibili. Per Google Ads e Meta Ads consigliamo un budget media minimo di €300/mese per ottenere dati statisticamente significativi."
+        },
+        {
+          "domanda": "Gestite anche i contenuti social?",
+          "risposta": "Sì, offriamo piani di content management completi: copywriting, grafica, scheduling e gestione delle interazioni, personalizzati per ogni piattaforma."
+        },
+        {
+          "domanda": "Con quale frequenza pubblicate sui social?",
+          "risposta": "La frequenza è concordata nel piano editoriale mensile. Tipicamente 3–5 post a settimana per piattaforma, con stories e reels inclusi nei piani completi."
+        }
+      ],
+      "colore": "#0a0a0a",
+      "categorie_correlate": [],
+      "correlati": [
+        "siti-web",
+        "brand-identity",
+        "grafica-stampa"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "grafica-stampa",
+      "titolo": "Grafica & Stampa",
+      "icona": "img/icons/grafica.png",
+      "descrizione": "Materiali grafici per ogni esigenza: brochure, flyer, manifesti, packaging e tutto ciò che serve offline.",
+      "dettagli": [
+        "Brochure e cataloghi",
+        "Flyer e manifesti",
+        "Packaging e etichette",
+        "Grafica per fiere ed eventi"
+      ],
+      "faq": [
+        {
+          "domanda": "Seguite anche la stampa o solo la grafica?",
+          "risposta": "Gestiamo l'intero processo: dalla progettazione grafica alla preparazione dei file per la stampa, fino al coordinamento con le tipografie. Possiamo anche gestire direttamente gli ordini di stampa."
+        },
+        {
+          "domanda": "In quanto tempo ricevo i file pronti per la stampa?",
+          "risposta": "I tempi dipendono dalla complessità del materiale. Un flyer semplice è pronto in 3–5 giorni lavorativi; un catalogo completo richiede 2–3 settimane."
+        },
+        {
+          "domanda": "Posso richiedere modifiche dopo aver visto la bozza?",
+          "risposta": "Sì, il processo include bozze e revisioni. Ti presentiamo sempre una prima bozza da approvare prima di procedere con la versione definitiva."
+        },
+        {
+          "domanda": "Lavorate con brand già strutturati?",
+          "risposta": "Assolutamente sì. Se hai già un manuale d'identità, lo rispettiamo e realizziamo materiali coerenti con le tue linee guida esistenti."
+        }
+      ],
+      "colore": "#ef3e36",
+      "categorie_correlate": [
+        "Grafica e Illustrazione",
+        "Tipografia"
+      ],
+      "correlati": [
+        "brand-identity",
+        "siti-web",
+        "marketing-digitale"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "consulenza-it",
+      "titolo": "Consulenza IT",
+      "icona": "img/icons/Consulenza.png",
+      "descrizione": "Supporto tecnico e consulenza informatica per aziende. Infrastruttura, sicurezza, cloud e assistenza continua.",
+      "dettagli": [
+        "Audit digitale aziendale",
+        "Migrazione cloud",
+        "Sicurezza informatica",
+        "Assistenza e manutenzione"
+      ],
+      "faq": [
+        {
+          "domanda": "Cosa include un audit digitale?",
+          "risposta": "Analizziamo l'intera infrastruttura IT: sito web, strumenti usati, sicurezza dei dati, prestazioni e flussi di lavoro. Al termine ricevi un report con priorità e raccomandazioni concrete."
+        },
+        {
+          "domanda": "Offrite assistenza continuativa?",
+          "risposta": "Sì, abbiamo piani di assistenza mensili con SLA definiti, monitoraggio proattivo, aggiornamenti di sicurezza e supporto via telefono, email e chat."
+        },
+        {
+          "domanda": "Aiutate nella migrazione verso il cloud?",
+          "risposta": "Sì, gestiamo migrazioni verso AWS, Google Cloud e Microsoft Azure, garantendo continuità operativa e zero downtime dove possibile."
+        },
+        {
+          "domanda": "Lavorate anche con piccole aziende o solo enterprise?",
+          "risposta": "Lavoriamo con aziende di ogni dimensione: dalla piccola impresa familiare alle PMI strutturate. Le soluzioni vengono sempre dimensionate al budget e alle esigenze reali."
+        }
+      ],
+      "colore": "#0a0a0a",
+      "categorie_correlate": [],
+      "correlati": [
+        "app-software",
+        "siti-web",
+        "brand-identity"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1339 @@
+[
+  {
+    "iso": "IT",
+    "nome": "Italia",
+    "dial": "+39",
+    "min": 8,
+    "max": 11
+  },
+  {
+    "iso": "AD",
+    "nome": "Andorra",
+    "dial": "+376",
+    "min": 6,
+    "max": 6
+  },
+  {
+    "iso": "AL",
+    "nome": "Albania",
+    "dial": "+355",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "AT",
+    "nome": "Austria",
+    "dial": "+43",
+    "min": 7,
+    "max": 13
+  },
+  {
+    "iso": "BA",
+    "nome": "Bosnia ed Erzegovina",
+    "dial": "+387",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "BE",
+    "nome": "Belgio",
+    "dial": "+32",
+    "min": 8,
+    "max": 10
+  },
+  {
+    "iso": "BG",
+    "nome": "Bulgaria",
+    "dial": "+359",
+    "min": 8,
+    "max": 9
+  },
+  {
+    "iso": "BY",
+    "nome": "Bielorussia",
+    "dial": "+375",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "CH",
+    "nome": "Svizzera",
+    "dial": "+41",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "CY",
+    "nome": "Cipro",
+    "dial": "+357",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "CZ",
+    "nome": "Repubblica Ceca",
+    "dial": "+420",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "DE",
+    "nome": "Germania",
+    "dial": "+49",
+    "min": 7,
+    "max": 13
+  },
+  {
+    "iso": "DK",
+    "nome": "Danimarca",
+    "dial": "+45",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "EE",
+    "nome": "Estonia",
+    "dial": "+372",
+    "min": 7,
+    "max": 8
+  },
+  {
+    "iso": "ES",
+    "nome": "Spagna",
+    "dial": "+34",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "FI",
+    "nome": "Finlandia",
+    "dial": "+358",
+    "min": 6,
+    "max": 12
+  },
+  {
+    "iso": "FR",
+    "nome": "Francia",
+    "dial": "+33",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "GB",
+    "nome": "Regno Unito",
+    "dial": "+44",
+    "min": 9,
+    "max": 10
+  },
+  {
+    "iso": "GR",
+    "nome": "Grecia",
+    "dial": "+30",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "HR",
+    "nome": "Croazia",
+    "dial": "+385",
+    "min": 8,
+    "max": 9
+  },
+  {
+    "iso": "HU",
+    "nome": "Ungheria",
+    "dial": "+36",
+    "min": 8,
+    "max": 9
+  },
+  {
+    "iso": "IE",
+    "nome": "Irlanda",
+    "dial": "+353",
+    "min": 7,
+    "max": 9
+  },
+  {
+    "iso": "IS",
+    "nome": "Islanda",
+    "dial": "+354",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "LI",
+    "nome": "Liechtenstein",
+    "dial": "+423",
+    "min": 7,
+    "max": 9
+  },
+  {
+    "iso": "LT",
+    "nome": "Lituania",
+    "dial": "+370",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "LU",
+    "nome": "Lussemburgo",
+    "dial": "+352",
+    "min": 6,
+    "max": 9
+  },
+  {
+    "iso": "LV",
+    "nome": "Lettonia",
+    "dial": "+371",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "MC",
+    "nome": "Monaco",
+    "dial": "+377",
+    "min": 8,
+    "max": 9
+  },
+  {
+    "iso": "MD",
+    "nome": "Moldavia",
+    "dial": "+373",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "ME",
+    "nome": "Montenegro",
+    "dial": "+382",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "MK",
+    "nome": "Macedonia del Nord",
+    "dial": "+389",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "MT",
+    "nome": "Malta",
+    "dial": "+356",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "NL",
+    "nome": "Paesi Bassi",
+    "dial": "+31",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "NO",
+    "nome": "Norvegia",
+    "dial": "+47",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "PL",
+    "nome": "Polonia",
+    "dial": "+48",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "PT",
+    "nome": "Portogallo",
+    "dial": "+351",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "RO",
+    "nome": "Romania",
+    "dial": "+40",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "RS",
+    "nome": "Serbia",
+    "dial": "+381",
+    "min": 8,
+    "max": 9
+  },
+  {
+    "iso": "RU",
+    "nome": "Russia",
+    "dial": "+7",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "SE",
+    "nome": "Svezia",
+    "dial": "+46",
+    "min": 7,
+    "max": 9
+  },
+  {
+    "iso": "SI",
+    "nome": "Slovenia",
+    "dial": "+386",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "SK",
+    "nome": "Slovacchia",
+    "dial": "+421",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "SM",
+    "nome": "San Marino",
+    "dial": "+378",
+    "min": 6,
+    "max": 10
+  },
+  {
+    "iso": "UA",
+    "nome": "Ucraina",
+    "dial": "+380",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "VA",
+    "nome": "Città del Vaticano",
+    "dial": "+379",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "XK",
+    "nome": "Kosovo",
+    "dial": "+383",
+    "min": 8,
+    "max": 9
+  },
+  {
+    "iso": "DZ",
+    "nome": "Algeria",
+    "dial": "+213",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "AO",
+    "nome": "Angola",
+    "dial": "+244",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "BJ",
+    "nome": "Benin",
+    "dial": "+229",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "BW",
+    "nome": "Botswana",
+    "dial": "+267",
+    "min": 7,
+    "max": 8
+  },
+  {
+    "iso": "BF",
+    "nome": "Burkina Faso",
+    "dial": "+226",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "BI",
+    "nome": "Burundi",
+    "dial": "+257",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "CM",
+    "nome": "Camerun",
+    "dial": "+237",
+    "min": 8,
+    "max": 9
+  },
+  {
+    "iso": "CV",
+    "nome": "Capo Verde",
+    "dial": "+238",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "CF",
+    "nome": "Repubblica Centrafricana",
+    "dial": "+236",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "TD",
+    "nome": "Ciad",
+    "dial": "+235",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "KM",
+    "nome": "Comore",
+    "dial": "+269",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "CG",
+    "nome": "Congo",
+    "dial": "+242",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "CD",
+    "nome": "Congo (Rep. Dem.)",
+    "dial": "+243",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "CI",
+    "nome": "Costa d'Avorio",
+    "dial": "+225",
+    "min": 8,
+    "max": 10
+  },
+  {
+    "iso": "DJ",
+    "nome": "Gibuti",
+    "dial": "+253",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "EG",
+    "nome": "Egitto",
+    "dial": "+20",
+    "min": 9,
+    "max": 10
+  },
+  {
+    "iso": "GQ",
+    "nome": "Guinea Equatoriale",
+    "dial": "+240",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "ER",
+    "nome": "Eritrea",
+    "dial": "+291",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "SZ",
+    "nome": "Eswatini",
+    "dial": "+268",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "ET",
+    "nome": "Etiopia",
+    "dial": "+251",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "GA",
+    "nome": "Gabon",
+    "dial": "+241",
+    "min": 7,
+    "max": 8
+  },
+  {
+    "iso": "GM",
+    "nome": "Gambia",
+    "dial": "+220",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "GH",
+    "nome": "Ghana",
+    "dial": "+233",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "GN",
+    "nome": "Guinea",
+    "dial": "+224",
+    "min": 8,
+    "max": 9
+  },
+  {
+    "iso": "GW",
+    "nome": "Guinea-Bissau",
+    "dial": "+245",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "KE",
+    "nome": "Kenya",
+    "dial": "+254",
+    "min": 9,
+    "max": 10
+  },
+  {
+    "iso": "LS",
+    "nome": "Lesotho",
+    "dial": "+266",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "LR",
+    "nome": "Liberia",
+    "dial": "+231",
+    "min": 7,
+    "max": 9
+  },
+  {
+    "iso": "LY",
+    "nome": "Libia",
+    "dial": "+218",
+    "min": 8,
+    "max": 9
+  },
+  {
+    "iso": "MG",
+    "nome": "Madagascar",
+    "dial": "+261",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "MW",
+    "nome": "Malawi",
+    "dial": "+265",
+    "min": 7,
+    "max": 9
+  },
+  {
+    "iso": "ML",
+    "nome": "Mali",
+    "dial": "+223",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "MA",
+    "nome": "Marocco",
+    "dial": "+212",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "MR",
+    "nome": "Mauritania",
+    "dial": "+222",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "MU",
+    "nome": "Mauritius",
+    "dial": "+230",
+    "min": 7,
+    "max": 8
+  },
+  {
+    "iso": "MZ",
+    "nome": "Mozambico",
+    "dial": "+258",
+    "min": 8,
+    "max": 9
+  },
+  {
+    "iso": "NA",
+    "nome": "Namibia",
+    "dial": "+264",
+    "min": 7,
+    "max": 9
+  },
+  {
+    "iso": "NE",
+    "nome": "Niger",
+    "dial": "+227",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "NG",
+    "nome": "Nigeria",
+    "dial": "+234",
+    "min": 7,
+    "max": 10
+  },
+  {
+    "iso": "UG",
+    "nome": "Uganda",
+    "dial": "+256",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "ZA",
+    "nome": "Sudafrica",
+    "dial": "+27",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "RW",
+    "nome": "Ruanda",
+    "dial": "+250",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "ST",
+    "nome": "São Tomé e Príncipe",
+    "dial": "+239",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "SN",
+    "nome": "Senegal",
+    "dial": "+221",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "SC",
+    "nome": "Seychelles",
+    "dial": "+248",
+    "min": 6,
+    "max": 7
+  },
+  {
+    "iso": "SL",
+    "nome": "Sierra Leone",
+    "dial": "+232",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "SO",
+    "nome": "Somalia",
+    "dial": "+252",
+    "min": 7,
+    "max": 8
+  },
+  {
+    "iso": "SS",
+    "nome": "Sudan del Sud",
+    "dial": "+211",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "SD",
+    "nome": "Sudan",
+    "dial": "+249",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "TZ",
+    "nome": "Tanzania",
+    "dial": "+255",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "TG",
+    "nome": "Togo",
+    "dial": "+228",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "TN",
+    "nome": "Tunisia",
+    "dial": "+216",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "ZM",
+    "nome": "Zambia",
+    "dial": "+260",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "ZW",
+    "nome": "Zimbabwe",
+    "dial": "+263",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "AF",
+    "nome": "Afghanistan",
+    "dial": "+93",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "AM",
+    "nome": "Armenia",
+    "dial": "+374",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "AZ",
+    "nome": "Azerbaigian",
+    "dial": "+994",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "BH",
+    "nome": "Bahrein",
+    "dial": "+973",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "BD",
+    "nome": "Bangladesh",
+    "dial": "+880",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "BT",
+    "nome": "Bhutan",
+    "dial": "+975",
+    "min": 7,
+    "max": 8
+  },
+  {
+    "iso": "BN",
+    "nome": "Brunei",
+    "dial": "+673",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "KH",
+    "nome": "Cambogia",
+    "dial": "+855",
+    "min": 8,
+    "max": 9
+  },
+  {
+    "iso": "CN",
+    "nome": "Cina",
+    "dial": "+86",
+    "min": 11,
+    "max": 11
+  },
+  {
+    "iso": "GE",
+    "nome": "Georgia",
+    "dial": "+995",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "IN",
+    "nome": "India",
+    "dial": "+91",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "ID",
+    "nome": "Indonesia",
+    "dial": "+62",
+    "min": 9,
+    "max": 12
+  },
+  {
+    "iso": "IR",
+    "nome": "Iran",
+    "dial": "+98",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "IQ",
+    "nome": "Iraq",
+    "dial": "+964",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "IL",
+    "nome": "Israele",
+    "dial": "+972",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "JP",
+    "nome": "Giappone",
+    "dial": "+81",
+    "min": 9,
+    "max": 10
+  },
+  {
+    "iso": "JO",
+    "nome": "Giordania",
+    "dial": "+962",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "KZ",
+    "nome": "Kazakistan",
+    "dial": "+7",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "KW",
+    "nome": "Kuwait",
+    "dial": "+965",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "KG",
+    "nome": "Kirghizistan",
+    "dial": "+996",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "LA",
+    "nome": "Laos",
+    "dial": "+856",
+    "min": 8,
+    "max": 10
+  },
+  {
+    "iso": "LB",
+    "nome": "Libano",
+    "dial": "+961",
+    "min": 7,
+    "max": 8
+  },
+  {
+    "iso": "MY",
+    "nome": "Malesia",
+    "dial": "+60",
+    "min": 9,
+    "max": 10
+  },
+  {
+    "iso": "MV",
+    "nome": "Maldive",
+    "dial": "+960",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "MN",
+    "nome": "Mongolia",
+    "dial": "+976",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "MM",
+    "nome": "Birmania (Myanmar)",
+    "dial": "+95",
+    "min": 7,
+    "max": 10
+  },
+  {
+    "iso": "NP",
+    "nome": "Nepal",
+    "dial": "+977",
+    "min": 9,
+    "max": 10
+  },
+  {
+    "iso": "KP",
+    "nome": "Corea del Nord",
+    "dial": "+850",
+    "min": 8,
+    "max": 10
+  },
+  {
+    "iso": "OM",
+    "nome": "Oman",
+    "dial": "+968",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "PK",
+    "nome": "Pakistan",
+    "dial": "+92",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "PS",
+    "nome": "Palestina",
+    "dial": "+970",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "PH",
+    "nome": "Filippine",
+    "dial": "+63",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "QA",
+    "nome": "Qatar",
+    "dial": "+974",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "SA",
+    "nome": "Arabia Saudita",
+    "dial": "+966",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "SG",
+    "nome": "Singapore",
+    "dial": "+65",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "KR",
+    "nome": "Corea del Sud",
+    "dial": "+82",
+    "min": 9,
+    "max": 10
+  },
+  {
+    "iso": "LK",
+    "nome": "Sri Lanka",
+    "dial": "+94",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "SY",
+    "nome": "Siria",
+    "dial": "+963",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "TW",
+    "nome": "Taiwan",
+    "dial": "+886",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "TJ",
+    "nome": "Tagikistan",
+    "dial": "+992",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "TH",
+    "nome": "Thailandia",
+    "dial": "+66",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "TL",
+    "nome": "Timor Est",
+    "dial": "+670",
+    "min": 7,
+    "max": 8
+  },
+  {
+    "iso": "TR",
+    "nome": "Turchia",
+    "dial": "+90",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "TM",
+    "nome": "Turkmenistan",
+    "dial": "+993",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "AE",
+    "nome": "Emirati Arabi Uniti",
+    "dial": "+971",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "UZ",
+    "nome": "Uzbekistan",
+    "dial": "+998",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "VN",
+    "nome": "Vietnam",
+    "dial": "+84",
+    "min": 9,
+    "max": 10
+  },
+  {
+    "iso": "YE",
+    "nome": "Yemen",
+    "dial": "+967",
+    "min": 8,
+    "max": 9
+  },
+  {
+    "iso": "US",
+    "nome": "Stati Uniti",
+    "dial": "+1",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "CA",
+    "nome": "Canada",
+    "dial": "+1",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "MX",
+    "nome": "Messico",
+    "dial": "+52",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "BZ",
+    "nome": "Belize",
+    "dial": "+501",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "CR",
+    "nome": "Costa Rica",
+    "dial": "+506",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "SV",
+    "nome": "El Salvador",
+    "dial": "+503",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "GT",
+    "nome": "Guatemala",
+    "dial": "+502",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "HN",
+    "nome": "Honduras",
+    "dial": "+504",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "NI",
+    "nome": "Nicaragua",
+    "dial": "+505",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "PA",
+    "nome": "Panama",
+    "dial": "+507",
+    "min": 7,
+    "max": 8
+  },
+  {
+    "iso": "CU",
+    "nome": "Cuba",
+    "dial": "+53",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "DO",
+    "nome": "Repubblica Dominicana",
+    "dial": "+1",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "HT",
+    "nome": "Haiti",
+    "dial": "+509",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "JM",
+    "nome": "Giamaica",
+    "dial": "+1",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "TT",
+    "nome": "Trinidad e Tobago",
+    "dial": "+1",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "BS",
+    "nome": "Bahamas",
+    "dial": "+1",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "BB",
+    "nome": "Barbados",
+    "dial": "+1",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "AR",
+    "nome": "Argentina",
+    "dial": "+54",
+    "min": 10,
+    "max": 11
+  },
+  {
+    "iso": "BO",
+    "nome": "Bolivia",
+    "dial": "+591",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "BR",
+    "nome": "Brasile",
+    "dial": "+55",
+    "min": 10,
+    "max": 11
+  },
+  {
+    "iso": "CL",
+    "nome": "Cile",
+    "dial": "+56",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "CO",
+    "nome": "Colombia",
+    "dial": "+57",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "EC",
+    "nome": "Ecuador",
+    "dial": "+593",
+    "min": 8,
+    "max": 9
+  },
+  {
+    "iso": "GY",
+    "nome": "Guyana",
+    "dial": "+592",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "PY",
+    "nome": "Paraguay",
+    "dial": "+595",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "PE",
+    "nome": "Perù",
+    "dial": "+51",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "SR",
+    "nome": "Suriname",
+    "dial": "+597",
+    "min": 6,
+    "max": 7
+  },
+  {
+    "iso": "UY",
+    "nome": "Uruguay",
+    "dial": "+598",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "iso": "VE",
+    "nome": "Venezuela",
+    "dial": "+58",
+    "min": 10,
+    "max": 10
+  },
+  {
+    "iso": "AU",
+    "nome": "Australia",
+    "dial": "+61",
+    "min": 9,
+    "max": 9
+  },
+  {
+    "iso": "FJ",
+    "nome": "Figi",
+    "dial": "+679",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "KI",
+    "nome": "Kiribati",
+    "dial": "+686",
+    "min": 5,
+    "max": 8
+  },
+  {
+    "iso": "MH",
+    "nome": "Isole Marshall",
+    "dial": "+692",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "FM",
+    "nome": "Micronesia",
+    "dial": "+691",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "NR",
+    "nome": "Nauru",
+    "dial": "+674",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "NZ",
+    "nome": "Nuova Zelanda",
+    "dial": "+64",
+    "min": 8,
+    "max": 10
+  },
+  {
+    "iso": "PW",
+    "nome": "Palau",
+    "dial": "+680",
+    "min": 7,
+    "max": 7
+  },
+  {
+    "iso": "PG",
+    "nome": "Papua Nuova Guinea",
+    "dial": "+675",
+    "min": 7,
+    "max": 8
+  },
+  {
+    "iso": "WS",
+    "nome": "Samoa",
+    "dial": "+685",
+    "min": 5,
+    "max": 7
+  },
+  {
+    "iso": "SB",
+    "nome": "Isole Salomone",
+    "dial": "+677",
+    "min": 5,
+    "max": 7
+  },
+  {
+    "iso": "TO",
+    "nome": "Tonga",
+    "dial": "+676",
+    "min": 5,
+    "max": 7
+  },
+  {
+    "iso": "TV",
+    "nome": "Tuvalu",
+    "dial": "+688",
+    "min": 5,
+    "max": 6
+  },
+  {
+    "iso": "VU",
+    "nome": "Vanuatu",
+    "dial": "+678",
+    "min": 5,
+    "max": 7
+  }
+]

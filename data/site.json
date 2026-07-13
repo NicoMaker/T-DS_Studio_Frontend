@@ -1,0 +1,30 @@
+{
+  "azienda": {
+    "nome": "T-DS Studio",
+    "slogan": "Informatica & Grafica per il tuo business",
+    "email": "tds.comunicationstudio@gmail.com",
+    "foto": "img/T-DS.png",
+    "contattiAzienda": {
+      "whatsapp": {
+        "numero": "+39 340 495 2592",
+        "label": "WhatsApp Azienda",
+        "url": "https://wa.me/393404952592"
+      },
+      "telefono": {
+        "numero": "+39 340 495 2592",
+        "label": "Telefono Azienda",
+        "url": "tel:+393404952592"
+      },
+      "email": {
+        "indirizzo": "tds.comunicationstudio@gmail.com",
+        "label": "Email Aziendale",
+        "url": "mailto:tds.comunicationstudio@gmail.com"
+      }
+    }
+  },
+  "social": {
+    "instagram": "https://instagram.com/tdsagency",
+    "linkedin": "https://linkedin.com/company/tdsagency",
+    "facebook": "https://facebook.com/tdsagency"
+  }
+}
