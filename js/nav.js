@@ -77,8 +77,14 @@ function initNav() {
     .forEach((a) => a.addEventListener("click", () => toggleMenu(false)));
 
   // ── Evidenzia link attivo ──────────────────────────────────
+  // Consideriamo "home" qualsiasi pagina che NON sia servizio.html.
+  // Non basta controllare "index.html" o "/": su hosting come GitHub
+  // Pages l'URL della home può essere "/nome-repo/" senza index.html
+  // esplicito (es. "nicomaker.github.io/T-DS_Studio_Frontend/"), e il
+  // vecchio controllo falliva forzando "Servizi" come sempre attivo
+  // anche sulla home.
   const path = window.location.pathname;
-  const isHome = path.endsWith("index.html") || path === "/" || path === "";
+  const isHome = !/servizio\.html$/i.test(path);
 
   if (isHome) {
     const sections = Array.from(document.querySelectorAll("section[id]"));
